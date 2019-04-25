@@ -14,4 +14,5 @@ VNC Viewer or SSH tool to access Raspberry pi
 
 Other resources that were used in the project:
 https://github.com/liske/python-apds9960
+
 Google Assistant SDK - Google Developers
