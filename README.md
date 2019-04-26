@@ -10,6 +10,7 @@ This README.md file includes the code documentation for the Raspberry pi zero w 
 
 ### Software requirements
 Python 3.7 (or 2.7+)
+
 VNC Viewer or SSH tool to access Raspberry pi
 
 ### Other resources that were used in the project:
