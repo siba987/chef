@@ -13,6 +13,17 @@ Python 3.7 (or 2.7+)
 
 VNC Viewer or SSH tool to access Raspberry pi
 
+### How to run
+
+The two main scripts that were used are the following:
+gesture.py - for the camera to take pictures when fridge is closed
+speech.py - which integrates the Google Assistant SDK
+upload.py - for sending the captured picture to Google drive
+The first two files should be hosted locally on the Raspberry Pi zero w on independent Terminal windows.
+
+
+### Raspberry Pi pinout
+![](images/rasp=pi-zero-w.jpg)
 ### Other resources that were used in the project:
 
 https://github.com/liske/python-apds9960
